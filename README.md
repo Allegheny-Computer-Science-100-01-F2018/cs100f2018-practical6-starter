@@ -1,5 +1,5 @@
 
-# cs100f2018-practical6-solution
+# cs100f2018-practical6-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the solution for Practical 6 in Computer Science 100.

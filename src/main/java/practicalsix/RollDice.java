@@ -18,7 +18,6 @@ public class RollDice {
 
     // Step Six: Find and output the maximum of the two dice values
 
-
     // Step Seven: Find and output the minimum of the two dice values
 
   }
